@@ -25,8 +25,9 @@ TestSet=Anno.img_train==1;
 AnnoTrain=isolateSet(Anno,TestSet);
 AnnoTest=isolateSet(Anno,~TestSet);
 
-%The train and test isolation still left uncategorized images in the test
-%set. They should be removed.
+%Remove img_train since the split is done
+AnnoTrain=rmfield(AnnoTrain,'img_train');
+AnnoTest=rmfield(AnnoTest,'img_train');
 
 save('ActionTable.mat',"ActionTable")
 save('AnnoTrain.mat',"AnnoTrain")
