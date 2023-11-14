@@ -1,0 +1,631 @@
+cat_name,act_name,act_id
+,"",-1
+sports,"curling",1
+inactivity quiet/light,"sitting quietly",2
+occupation,"truck driving, loading and unloading truck, tying down load, standing, walking and carrying heavy lo",3
+water activities,"swimming, synchronized",4
+home activities,"cleaning, general",5
+water activities,"jet skiing, driving, in water",8
+lawn and garden,"implied walkingstanding - picking up yard, light, picking flowers or vegetables",11
+sports,"lawn bowling, bocce ball, outdoor",12
+religious activities,"serving food in church",13
+winter activities,"skiing, cross-country",14
+occupation,"horse grooming, feeding, cleaning, harnessing and unharnessing",15
+sports,"hacky sack",17
+occupation,"plumbing activities",19
+walking,"pushing or pulling stroller with child or walking with children, 2.5 to 3.1 mph",22
+home activities,"ironing",23
+dancing,"ballroom",24
+conditioning exercise,"therapeutic exercise ball, Fitball exercise",25
+conditioning exercise,"bicycling, stationary",26
+lawn and garden,"racking lawn",28
+sports,"volleyball, indoor",30
+sports,"rock climbing",32
+fishing and hunting,"hunting, bow and arrow, or crossbow",36
+lawn and garden,"laying crushed rock",37
+water activities,"kayaking, moderate effort",38
+walking,"marching, military, no pack",40
+water activities,"tubing, floating on a river, general",41
+fishing and hunting,"hunting, general",42
+conditioning exercise,"teaching exercise class",44
+sports,"football or baseball, playing catch",45
+sports,"moto-cross, off-road motor sports, all-terrain vehicle, general",46
+winter activities,"dog sledding",47
+walking,"hiking",50
+sports,"orienteering",52
+miscellaneous,"standing, miscellaneous",53
+occupation,"tailoring",54
+sports,"racquetball",55
+walking,"walking, for exerceise, with ski poles",56
+home activities,"playing with animals",57
+miscellaneous,"sitting, writing, desk work, typing",59
+running,"running",61
+occupation,"skindiving or SCUBA diving as a frogman, Navy Seal",62
+religious activities,"serving food in church",63
+sports,"track and field",64
+sports,"juggling",65
+sports,"racquetball",67
+home activities,"elder care",68
+lawn and garden,"irrigation channels, opening and closing ports",69
+fishing and hunting,"fishing, ice, sitting",70
+home activities,"tanning hides, general",71
+volunteer activities,"sitting, doing work",72
+winter activities,"ski jumping",73
+music playing,"playing musical instruments, general",74
+conditioning exercise,"bicycling, stationary",75
+lawn and garden,"yard work, general",76
+walking,"walking, general",77
+home repair,"washing and waxing hull of sailboat or airplane",78
+occupation,"moving, carrying or pushing heavy objects, 75 lbs or more, only active time (e.g., desks, moving van",79
+bicycling,"bicycling, general",80
+water activities,"paddle boat",81
+conditioning exercise,"calisthenics",83
+home repair,"carpentry, finishing or refinishing cabinets or furniture",84
+sports,"croquet",85
+occupation,"using heavy tools",87
+music playing,"piano, sitting",89
+religious activities,"kneeling in church or at home, praying",90
+transportation,"motor scooter, motorcycle",91
+occupation,"carpentry, general",92
+conditioning exercise,"yoga, Power",93
+sports,"Alaska Native Games, Eskimo Olympics, general",95
+home repair,"caulking, except log cabin",96
+sports,"hockey, ice, competitive",97
+occupation,"horse racing",99
+fishing and hunting,"hunting, birds",102
+occupation,"working in scene shop, theater actor, backstage employee",103
+religious activities,"sitting, playing an instrument at church",105
+conditioning exercise,"rowing, stationary",106
+sports,"horseback riding",109
+sports,"children_s games, adults playing (e.g., hopscotch, 4-square, dodgeball, playground apparatus, t-ball",110
+fishing and hunting,"fishing, catching fish with hands",111
+lawn and garden,"chopping wood",112
+sports,"boxing, punching bag",113
+sports,"frisbee",114
+occupation,"manual or unskilled labor",115
+lawn and garden,"watering lawn or garden, standing or walking",116
+miscellaneous,"reading",117
+winter activities,"operating snow blower, walking",118
+conditioning exercise,"circuit training",119
+water activities,"canoeing, on camping trip (Taylor Code 270)",121
+occupation,"manager, property",122
+water activities,"canoeing, harvesting wild rice, knocking rice off the stalks",123
+fishing and hunting,"hunting, general",124
+home activities,"wash dishes",125
+running,"jogging",126
+sports,"rollerblading",127
+inactivity quiet/light,"sitting quietly",129
+sports,"tennis, hitting balls, non-game play, moderate effort",130
+conditioning exercise,"rowing, stationary",131
+bicycling,"bicycling, general",133
+sports,"rock climbing",135
+home activities,"cleaning, sweeping floor or carpet",136
+walking,"walking, for exerceise, with ski poles",139
+home activities,"sweeping garage, sidewalk or outside of house",140
+walking,"climbing hills",142
+sports,"wrestling (one match = 5 minutes)",143
+sports,"golf",144
+occupation,"using heavy tools",145
+lawn and garden,"mowing lawn, power mower",146
+walking,"climbing hills",147
+occupation,"chambermaid, hotel housekeeper, making bed, cleaning bathroom, pushing cart",148
+occupation,"horse racing",150
+sports,"archery, non-hunting",151
+sports,"jai alai",152
+occupation,"standing, doing work",153
+water activities,"skiing, water or wakeboarding (Taylor Code 220)",154
+running,"running",156
+fishing and hunting,"fishing from boat or canoe, sitting",158
+conditioning exercise,"rowing, stationary",159
+running,"running",160
+home activities,"vacuuming, general, moderate effort",161
+conditioning exercise,"health club exerceise classes",162
+fishing and hunting,"hunting, general",164
+running,"running",166
+volunteer activities,"walkrun play with children, moderate, only active periods",167
+occupation,"standing, doing work",171
+home activities,"scrubbing floors",172
+lawn and garden,"shoveling snow, by hand",173
+occupation,"standing, doing work",174
+home activities,"landry",175
+home activities,"moving furniture, household items, carrying boxes",177
+walking,"walking, general",178
+conditioning exercise,"Elliptical trainer, moderate effort",179
+home activities,"cleaning, sweeping floor or carpet",182
+occupation,"orange grove work, picking fruit",183
+home repair,"sanding floors with a power sander",184
+occupation,"tailoring",185
+occupation,"manual or unskilled labor",186
+water activities,"boating, power",187
+self care,"grooming, washing hands, shaving,brushing teeth, putting on make-up, sitting or standing",188
+miscellaneous,"copying documents, standing",189
+home activities,"elder care",190
+running,"jogging",191
+occupation,"steel mill, moderate effort (e.g., fettling, forging, tipping molds)",192
+dancing,"general dancing (e.g., disco, folk, Irish step dancing, line dancing, polka, contra, country)",193
+conditioning exercise,"calisthenics",194
+sports,"volleyball, indoor",196
+dancing,"ballet, modern, or jazz",197
+home activities,"feeding household animals",198
+water activities,"windsurfing",199
+bicycling,"unicycling",200
+home repair,"home repair, general",201
+sports,"handball",202
+bicycling,"bicycling, general",207
+fishing and hunting,"fishing from river bank",208
+occupation,"masonry, concrete",209
+conditioning exercise,"calisthenics",211
+lawn and garden,"yard work, general",213
+conditioning exercise,"video exercise workouts, TV conditioning programs",215
+conditioning exercise,"slimnastics, jazzercise",217
+water activities,"skindiving, scuba diving, snorkeling",219
+water activities,"swimming, general",220
+home activities,"dusting or polishing furniture, general",222
+home repair,"roofing",223
+lawn and garden,"wheelbarrow, pushing garden cart or wheelbarrow",224
+dancing,"aerobic, general",226
+occupation,"carpentry, general",228
+home repair,"cleaning gutters",229
+occupation,"bakery, general",230
+dancing,"aerobic, step",234
+lawn and garden,"trimming shrubs or trees",235
+occupation,"fishing, commercial",236
+occupation,"engineer (e.g., mechanical or electrical)",237
+bicycling,"bicycling, mountain",238
+sports,"basketball",239
+home activities,"wash dishes",240
+running,"running",241
+occupation,"tailoring",243
+home activities,"organizing room",244
+lawn and garden,"felling trees",245
+occupation,"horse grooming, feeding, cleaning, harnessing and unharnessing",246
+occupation,"farming",247
+fishing and hunting,"fishing from river bank",248
+conditioning exercise,"upper body exercise, stationary bicycle - Airdyne (arms only) 40 rpm, moderate",250
+sports,"basketball",251
+home repair,"repairing appliances",252
+miscellaneous,"standing, arts and crafts, sand painting, carving, weaving",253
+winter activities,"snowmobiling",254
+conditioning exercise,"calisthenics",256
+lawn and garden,"digging, spading, filling garden, composting",257
+transportation,"pulling rickshaw",258
+home repair,"hanging sheet rock inside house",259
+lawn and garden,"planting, potting, transplanting seedlings or plants, light effort",260
+water activities,"swimming, sidestroke, general",261
+sports,"horse cart, driving, standing or sitting",262
+occupation,"bookbinding",263
+sports,"paddleball",264
+occupation,"police, general",265
+music playing,"double bass, standing",267
+sports,"hockey, field",268
+home repair,"automobile repair",270
+water activities,"swimming, lake, ocean, river (Taylor Codes 280, 295)",271
+fishing and hunting,"trapping game, general",273
+home activities,"playing with animals",274
+lawn and garden,"clearing brush",276
+winter activities,"skiing, downhill",277
+occupation,"forestry",278
+water activities,"canoeing, kayaking, rowing, competitive",279
+running,"running, cross country",280
+occupation,"printing, paper industry worker, standing",281
+dancing,"ballet, modern, or jazz",282
+home repair,"hammering nails",284
+music playing,"woodwind, sitting",285
+lawn and garden,"carrying, loading or stacking wood",286
+home activities,"child care",287
+occupation,"standing, doing work",288
+home repair,"home repair, general",289
+home repair,"laying tile or linoleum,repairing appliances",290
+winter activities,"skiing, downhill",291
+home activities,"maple syrupingsugar bushing (including carrying buckets, carrying wood)",292
+sports,"squash",293
+sports,"bowling",294
+fishing and hunting,"fishing in stream, in waders (Taylor Code 670)",295
+lawn and garden,"mowing lawn, walk, hand mower (Taylor Code 570)",296
+lawn and garden,"picking fruits/vegetables",297
+transportation,"driving automobile or light truck",298
+home activities,"cooking or food preparation",299
+inactivity quiet/light,"reclining",300
+bicycling,"bicycling, general",302
+fishing and hunting,"hunting, birds",303
+winter activities,"skiing, general",304
+sports,"horseback riding",305
+water activities,"water walking",306
+running,"running, marathon",307
+winter activities,"skiing, downhill",308
+walking,"backpacking",309
+occupation,"driving delivery truck, taxi, shuttle bus, school bus",310
+water activities,"water jogging",311
+sports,"broomball",312
+sports,"football, competitive",313
+dancing,"ethnic or cultural dancing (e.g., Greek, Middle Eastern, hula, salsa, merengue, bamba y plena, flame",314
+home repair,"put on and removal of tarp - sailboat",315
+winter activities,"skiing, cross-country, biathlon, skating technique",316
+home activities,"cooking or food preparation",318
+occupation,"tailoring",320
+sports,"volleyball, beach, in sand",321
+transportation,"riding in a car or truck",322
+lawn and garden,"gardening, general, moderate effort",326
+walking,"using crutches",327
+sports,"gymnastics, general",328
+winter activities,"skiing, downhill",329
+music playing,"accordion, sitting",330
+sports,"track and field",331
+dancing,"ballroom",332
+dancing,"aerobic, general",333
+sports,"soccer",334
+running,"running, stairs, up",335
+sports,"tennis, doubles",336
+miscellaneous,"sitting, arts and crafts,  carving wood, weaving, spinning wool",338
+miscellaneous,"laughing, sitting",339
+home activities,"mopping, standing, light effort",341
+walking,"pushing a wheelchair, non-occupational",342
+music playing,"horn, standing",343
+miscellaneous,"sitting at a sporting event, spectator",344
+volunteer activities,"standing, child care, only active periods",345
+water activities,"swimming, breaststroke, recreational",346
+sports,"softball, general",348
+sports,"skydiving, base jumping, bungee jumping",350
+conditioning exercise,"rowing, stationary",351
+walking,"stair climbing, fast pace",352
+sports,"softball, general",353
+walking,"bird watching, slow walk",354
+music playing,"guitar, rock and roll band, standing",356
+dancing,"aerobic, step",357
+occupation,"machine tooling",358
+sports,"paddleball",360
+occupation,"painting,house, furniture, moderate effort",361
+sports,"frisbee",362
+home repair,"scraping and painting sailboat or powerboat",363
+home activities,"breastfeeding, sitting or reclining",364
+home activities,"playing with children",365
+walking,"loading unloading a car, implied walking",366
+conditioning exercise,"circuit training",367
+occupation,"farming, taking care of animals (e.g., grooming, brushing, shearing sheep, assisting with birthing,",369
+lawn and garden,"clearing brush",371
+sports,"horseback riding",373
+occupation,"police, making an arrest, standing",374
+home repair,"carpentry, general, workshop (Taylor Code 620)",375
+miscellaneous,"standing, arts and crafts, sand painting, carving, weaving",376
+sports,"rope skipping, general",378
+home repair,"laying or removing carpet",379
+home activities,"polishing floors, standing, walking slowly, using electric polishing machine",380
+occupation,"fishing, commercial",381
+lawn and garden,"chopping wood",382
+lawn and garden,"yard work, general",383
+sports,"skateboarding",385
+lawn and garden,"driving tractor",387
+inactivity quiet/light,"standing quietly, standing in a line",388
+lawn and garden,"digging, spading, filling garden, composting",389
+walking,"walking, general",390
+walking,"hiking",392
+lawn and garden,"gardening with heavy power tools, tilling a garden, chain saw",393
+home activities,"knitting, sewing",394
+home repair,"carpentry, outside house, building a fence",396
+water activities,"skindiving, scuba diving, snorkeling",397
+fishing and hunting,"fishing, set net, setting net and retrieving fish, general",400
+occupation,"coal mining",401
+home activities,"landry",402
+sports,"rodeo sports",403
+music playing,"marching band",404
+winter activities,"snow shoeing",405
+sports,"handball",406
+home activities,"child care",407
+conditioning exercise,"bicycling, stationary",409
+walking,"walking, for exerceise, with ski poles",410
+lawn and garden,"weeding, cultivating garden",411
+conditioning exercise,"pilates, general",412
+home repair,"carpentry, home remodeling tasks",413
+lawn and garden,"digging sandbox, shoveling sand",415
+water activities,"sailing",416
+conditioning exercise,"yoga, Power",417
+sports,"horseshoe pitching, quoits",420
+sports,"fencing",421
+sports,"football, touch, flag",422
+walking,"race walking",425
+water activities,"skindiving, scuba diving, snorkeling",428
+miscellaneous,"sitting, studying, general, including reading andor writing, light effort",429
+water activities,"water walking",431
+conditioning exercise,"resistance training",432
+occupation,"active workstation, treadmill desk, walking",433
+sports,"tai chi, qi gong, general",435
+fishing and hunting,"fishing with a spear, standing",437
+music playing,"organ, sitting",438
+sports,"tennis",439
+occupation,"fire fighter",440
+water activities,"surfing",441
+sports,"shuffleboard",442
+conditioning exercise,"native New Zealander physical activities",444
+occupation,"farming, rice, planting, grain milling activities",445
+sports,"golf",447
+lawn and garden,"planting seedlings, shrub, stooping, moderate effort",449
+bicycling,"bicycling, BMX",454
+water activities,"water aerobics, water calisthenics",455
+music playing,"drums, sitting",457
+self care,"hairstyling",460
+winter activities,"skating, ice",462
+miscellaneous,"touringtravelingvacation involving riding in a vehicle",463
+home activities,"cleaning windows, washing windows, general",465
+home repair,"painting, outside home (Taylor Code 650)",466
+home activities,"non-food shopping, with or without a cart, standing or walking",467
+home activities,"putting away groceries (e.g. carrying groceries, shopping without a grocery cart), carrying packages",469
+water activities,"paddle boarding, standing",470
+sports,"rock climbing",471
+occupation,"cook, chef",474
+water activities,"canoeing, kayaking, rowing, competitive",475
+occupation,"tailoring",476
+walking,"descending stairs",477
+occupation,"fire fighter",478
+dancing,"aerobic, step",479
+miscellaneous,"sitting, playing traditional video game, computer game",481
+sports,"horseback riding",482
+occupation,"farming, milking by machine, light effort",484
+transportation,"riding in a bus or train",485
+lawn and garden,"walking, applying fertilizer or seeding a lawn, push applicator",486
+miscellaneous,"sitting, arts and crafts,  carving wood, weaving, spinning wool",487
+conditioning exercise,"resistance training",490
+sports,"skateboarding",493
+winter activities,"operating snow blower, walking",495
+lawn and garden,"gardening, using containers, older adults > 60 years",496
+sports,"rollerblading",497
+miscellaneous,"sitting, in class, general, including note-taking or class discussion",498
+music playing,"trombone, standing",499
+sports,"wallyball, general",503
+sports,"polo, on horseback",505
+lawn and garden,"riding snow blower",506
+sports,"boxing, sparring",517
+water activities,"water volleyball",518
+conditioning exercise,"home exercise, general",519
+water activities,"canoeing, portaging",521
+sports,"softball, general",522
+music playing,"drumming (e.g., bongo, conga, benbe), moderate, sitting",523
+occupation,"massage therapist, standing",524
+sports,"tennis, doubles",536
+sports,"tennis",538
+sports,"trampoline, competitive",543
+miscellaneous,"card playing,sitting",544
+conditioning exercise,"native New Zealander physical activities",545
+miscellaneous,"chess game, sitting",547
+running,"jogging",549
+bicycling,"bicycling, mountain",550
+lawn and garden,"shoveling dirt or mud",551
+home repair,"painting inside house,wallpapering, scraping paint",552
+occupation,"laundry worker",553
+occupation,"sitting, teaching stretching or yoga, or light effort exercise class",554
+sports,"track and field",556
+walking,"walking the dog",558
+conditioning exercise,"yoga, Nadisodhana",559
+home activities,"landry",563
+music playing,"guitar, classical, folk, sitting",570
+occupation,"farming, feeding small animals",571
+music playing,"marching band",577
+music playing,"conducting orchestra, standing",578
+dancing,"Anishinaabe Jingle Dancing",580
+fishing and hunting,"pistol shooting or trap shooting, standing",582
+occupation,"forestry",583
+home repair,"wiring, tapping-splicing",584
+sports,"cricket, batting, bowling, fielding",585
+home repair,"washing and waxing car",588
+home repair,"caulking, chinking log cabin",589
+water activities,"windsurfing",592
+water activities,"diving, springboard or platform",594
+conditioning exercise,"rowing, stationary",595
+home activities,"cooking or food preparation",596
+water activities,"swimming, butterfly, general",601
+home repair,"carpentry, home remodeling tasks",604
+sports,"table tennis, ping pong (Taylor Code 410)",605
+miscellaneous,"touringtravelingvacation involving walking",606
+sports,"soccer",608
+occupation,"masonry, concrete",609
+winter activities,"skiing, cross-country",613
+music playing,"trumpet, standing",615
+sports,"skating, roller (Taylor Code 360)",616
+sports,"trampoline, recreational",618
+home activities,"cleaning, general",620
+occupation,"sitting meetings, light effort, general, andor with talking involved (e.g., eating at a business me",621
+miscellaneous,"sitting, talking in person, on the phone, computer, or text messaging, light effort",622
+occupation,"farming, driving tasks (e.g., driving tractor or harvester)",624
+occupation,"coal mining",626
+sports,"golf",627
+fishing and hunting,"fishing, general",629
+winter activities,"skating, ice dancing",630
+sports,"hang gliding",632
+home activities,"cutting and smoking fish, drying fish or meat",637
+running,"running",640
+water activities,"swimming, general",641
+walking,"backpacking",642
+sports,"badminton, competitive (Taylor Code 450)",643
+occupation,"postal carrier, walking to deliver mail",645
+water activities,"snorkeling (Taylor Code 310)",646
+occupation,"farming, milking by hand, cleaning pails, moderate effort",647
+sports,"boxing, in ring, general",651
+lawn and garden,"digging, spading, filling garden, composting",652
+running,"running, on a track, team practice",653
+inactivity quiet/light,"sitting quietly",655
+water activities,"sailing, in competition",660
+occupation,"bakery, general",661
+occupation,"fire fighter, hauling hoses on ground, carryinghoisting equipment, breaking down walls etc., wearin",662
+fishing and hunting,"fishing, dip net, setting net and retrieving fish, general",663
+occupation,"farming",664
+sports,"kickball",665
+occupation,"airline flight attendant",667
+occupation,"sitting tasks, light effort (e.g., office work, chemistry lab work, computer work, light assembly re",668
+religious activities,"standing, talking in church",669
+occupation,"farming, feeding cattle, horses",670
+music playing,"violin, sitting",672
+sports,"volleyball, indoor",674
+winter activities,"dog sledding",676
+winter activities,"skating, speed, competitive",677
+winter activities,"snowmobiling",679
+fishing and hunting,"fishing, ice, sitting",680
+home repair,"hanging storm windows",681
+home activities,"moving household items upstairs, carrying boxes or furniture",682
+dancing,"ballroom",683
+winter activities,"skating, ice",686
+water activities,"whitewater rafting, kayaking, or canoeing",688
+miscellaneous,"drawing, writing, painting, standing",689
+home activities,"playing with children",690
+sports,"billiards",691
+occupation,"garbage collector, walking, dumping bins into truck",692
+home repair,"automobile repair",693
+water activities,"swimming, backstroke",695
+lawn and garden,"planting trees",697
+water activities,"swimming, backstroke",700
+home activities,"cleaning, general",702
+occupation,"custodial work",704
+lawn and garden,"raking roof with snow rake",706
+home repair,"sharpening tools",708
+music playing,"cello, sitting",709
+conditioning exercise,"stretching, mild",711
+inactivity quiet/light,"lying quietly, sleeping",712
+occupation,"construction, outside, remodeling, new structures (e.g., roof repair, miscellaneous)",714
+fishing and hunting,"hunting, rabbit, squirrel, prairie chick, raccoon, small game (Taylor Code 690)",715
+winter activities,"snow shoeing",716
+water activities,"swimming, general",719
+occupation,"machine tooling",723
+bicycling,"bicycling, general",724
+sports,"coaching",725
+occupation,"forestry",726
+water activities,"water walking",727
+inactivity quiet/light,"reclining",728
+lawn and garden,"weeding, cultivating garden",729
+home activities,"scrubbing floors",730
+conditioning exercise,"ski machine, general",731
+miscellaneous,"standing, arts and crafts, sand painting, carving, weaving",732
+occupation,"locksmith",733
+walking,"carrying load, upstairs",734
+water activities,"boating, power",735
+sports,"softball, general",736
+home activities,"kitchen activity, general, (e.g., cooking, washing dishes, cleaning up), moderate effort",737
+self care,"taking medication, sitting or standing",738
+water activities,"canoeing, kayaking, rowing, competitive",739
+sports,"rugby, touch, non-competitive",740
+self care,"eating, sitting",743
+conditioning exercise,"yoga, Power",744
+bicycling,"bicycling, mountain",745
+conditioning exercise,"bicycling, stationary",746
+religious activities,"sitting in church",747
+water activities,"swimming, general",748
+fishing and hunting,"fishing, general",749
+sports,"rollerblading",752
+home repair,"washing fence, painting fence, moderate effort",753
+winter activities,"skating, ice",754
+home activities,"making bed, changing linens",756
+occupation,"police, directing traffic, standing",757
+occupation,"horse grooming, feeding, cleaning, harnessing and unharnessing",758
+lawn and garden,"trimming shrubs or trees",761
+sports,"basketball",762
+bicycling,"bicycling, general",764
+sports,"squash",766
+home activities,"child care",767
+conditioning exercise,"slide board exercise, general",768
+sports,"lacrosse",771
+sports,"martial arts, different types",772
+occupation,"hairstylist (e.g., plaiting hair, manicure, make-up artist)",773
+home repair,"carpentry, sawing hardwood",774
+sports,"martial arts, different types",775
+occupation,"manual or unskilled labor",777
+music playing,"flute, sitting",778
+home activities,"food shopping with or without a grocery cart, standing or walking",779
+bicycling,"bicycling, racing and road",780
+sports,"basketball",781
+sports,"basketball, game (Taylor Code 490)",782
+home activities,"playing with animals",783
+occupation,"carpentry, general",785
+transportation,"pushing plane in and out of hangar",786
+sports,"rock climbing",787
+walking,"stair climbing, using or climbing up ladder (Taylor Code 030)",788
+sports,"darts, wall or lawn",789
+sports,"hockey, ice, general",804
+sports,"badminton, social singles and doubles, general",806
+dancing,"Caribbean dance (Abakua, Beguine, Bellair, Bongo, Brukin's, Caribbean Quadrills, Dinki Mini, Gere, G",807
+sports,"coaching",808
+sports,"high ropes course, multiple elements",809
+water activities,"canoeing, kayaking, rowing, competitive",811
+winter activities,"sledding, tobogganing, bobsledding, luge (Taylor Code 370)",812
+occupation,"shoe repair, general",814
+occupation,"horse racing",817
+bicycling,"bicycling, mountain",840
+bicycling,"bicycling, general",841
+bicycling,"bicycling, racing and road",842
+conditioning exercise,"bicycling, stationary",843
+conditioning exercise,"calisthenics",844
+conditioning exercise,"circuit training",845
+conditioning exercise,"resistance training",847
+conditioning exercise,"health club exerceise classes",848
+conditioning exercise,"video exercise workouts, TV conditioning programs",849
+conditioning exercise,"yoga, Power",852
+dancing,"ballet, modern, or jazz",853
+dancing,"aerobic, step",854
+dancing,"aerobic, general",855
+dancing,"ballroom",856
+fishing and hunting,"fishing, general",857
+fishing and hunting,"fishing from river bank",858
+fishing and hunting,"hunting, birds",860
+home activities,"cooking or food preparation",865
+home activities,"scrubbing floors",868
+home activities,"playing with children",869
+home activities,"child care",870
+home activities,"playing with animals",871
+home repair,"automobile repair",873
+home repair,"carpentry, home remodeling tasks",874
+home repair,"home repair, general",875
+inactivity quiet/light,"sitting quietly",877
+inactivity quiet/light,"reclining",878
+inactivity quiet/light,"lying quietly, sleeping",879
+lawn and garden,"picking fruits/vegetables",881
+lawn and garden,"chopping wood",882
+lawn and garden,"clearing brush",883
+lawn and garden,"digging, spading, filling garden, composting",884
+lawn and garden,"trimming shrubs or trees",887
+lawn and garden,"weeding, cultivating garden",888
+miscellaneous,"reading",891
+miscellaneous,"standing, arts and crafts, sand painting, carving, weaving",893
+occupation,"typing, electric, manual or computer",898
+occupation,"carpentry, general",899
+occupation,"coal mining",900
+occupation,"fire fighter",901
+occupation,"horse grooming, feeding, cleaning, harnessing and unharnessing",903
+occupation,"masonry, concrete",907
+occupation,"tailoring",908
+running,"jogging",913
+running,"running",914
+sports,"basketball",917
+sports,"football, touch, flag",919
+sports,"golf",921
+sports,"handball",922
+sports,"horseback riding",923
+sports,"martial arts, different types",924
+sports,"skateboarding",929
+sports,"rollerblading",930
+sports,"soccer",931
+sports,"tennis, doubles",934
+sports,"volleyball, indoor",936
+transportation,"driving automobile or light truck",939
+walking,"backpacking",940
+walking,"hiking",943
+walking,"walking, general",944
+walking,"walking, for exerceise, with ski poles",946
+water activities,"boating, power",948
+water activities,"canoeing, kayaking, rowing, competitive",949
+water activities,"sailing",950
+water activities,"skindiving, scuba diving, snorkeling",951
+water activities,"swimming, general",952
+water activities,"windsurfing",955
+water activities,"surfing",956
+winter activities,"skating, ice",958
+winter activities,"skiing, cross-country",959
+winter activities,"skiing, downhill",960
+winter activities,"ski jumping",964
+transportation,"pushing car",972
+occupation,"farming, cultivating field",973
+sports,"street skiing",974
+sports,"volleyball, non-competitive",975
+winter activities,"windsurfing or kitesurfing, winter",976
+winter activities,"snowboarding",977
+winter activities,"skiing, climbing up",978
+occupation,"serving food and drinks",979
+dancing,"Irish step dancing",980
+conditioning exercise,"weight lifting, power lifting",981
+miscellaneous,"standing, talking in person",982
+running,"jogging, on a mini-tramp",983
