@@ -70,7 +70,8 @@ end
 rows=1:size(AnnoRect2,1);
 AnnoRect2.annorect_id=rows.'; %Add annorect_id column
 
-AnnoTable=AnnoTable(:,1:4); %Remove annorect substructure from table
+AnnoTable=AnnoTable(:,[1,2,4]); %Remove annorect substructure from table
+%Remove single_person since we won't need it
 
 %Save tables so the code won't have to run again
 save('AnnoTable.mat',"AnnoTable")
