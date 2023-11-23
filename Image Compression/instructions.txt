@@ -1,0 +1,3 @@
+The python file "main" is used to convert the large images into 128x72
+grayscale versions that were uploaded to google drive. The folders big_images,
+small_images and csv_data are needed for the program to function correctly.
